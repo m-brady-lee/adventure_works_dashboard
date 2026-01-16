@@ -1,12 +1,12 @@
-ADVENTUREWORKS KPI & QA DASHBOARD
+# ADVENTUREWORKS KPI & QA DASHBOARD
 
 An interactive Power BI dashboard built on the AdventureWorks dataset to analyze sales performance, customer behavior, product trends, and return metrics. Designed to support KPI monitoring, quality assurance analysis, and operational audit workflows using a clean dimensional data model and advanced DAX calculations.
 
-OBJECTIVE
+## OBJECTIVE
 
 To design a business-ready analytics dashboard that enables stakeholders to monitor revenue, profit, orders, returns, and customer performance while supporting quality assurance, trend analysis, and data-driven decision-making.
 
-KEY QUESTIONS ANSWERED
+## KEY QUESTIONS ANSWERED
 
 How are revenue, profit, orders, and returns trending over time?
 
@@ -20,7 +20,7 @@ Where are return rates highest, and how do they impact profitability?
 
 How do pricing adjustments affect profit performance?
 
-DATA MODEL
+## DATA MODEL
 
 A star-schema–based dimensional model built for performance, clarity, and auditability.
 
@@ -46,7 +46,7 @@ Territory Lookup
 
 Relationships were designed to support accurate aggregation, drill-down analysis, and consistent KPI calculation across all visuals.
 
-DATA PREPARATION
+## DATA PREPARATION
 
 Imported and validated structured sales and returns data
 
@@ -58,7 +58,7 @@ Modeled territory, customer, and product hierarchies to enable multi-level analy
 
 Verified grain consistency to prevent double-counting in KPIs
 
-ANALYSIS & ENGINEERING
+## ANALYSIS & ENGINEERING
 
 Authored complex DAX measures to calculate:
 
@@ -78,7 +78,7 @@ Built logic to support interactive pricing adjustment scenarios
 
 Designed calculations to support QA checks and operational review use cases
 
-DASHBOARD FEATURES
+## DASHBOARD FEATURES
 Executive Dashboard
 
 High-level KPIs: Revenue, Profit, Orders, Return Rate
@@ -125,7 +125,7 @@ Key Influencers to identify drivers of performance
 
 Dynamic tooltips and calculation groups for flexible metric selection
 
-KEY INSIGHTS
+## KEY INSIGHTS
 
 Revenue and profit showed sustained upward trends with seasonal variability
 
@@ -137,7 +137,7 @@ Revenue per customer increased steadily over time, indicating improved customer 
 
 Geographic concentration revealed regional dependencies that could impact risk exposure
 
-TOOLS & TECHNOLOGY
+## TOOLS & TECHNOLOGY
 
 BI Tool: Power BI
 
@@ -149,7 +149,7 @@ Analysis: DAX, calculated measures, calculation groups
 
 Visualization: KPI cards, maps, decomposition tree, key influencers
 
-SKILLS DEMONSTRATED
+## SKILLS DEMONSTRATED
 
 KPI design and performance tracking
 
@@ -163,7 +163,7 @@ Business storytelling through dashboards
 
 Translating raw data into actionable insights
 
-SCREENSHOTS
+## SCREENSHOTS
 Executive Dashboard
 
 Geographic Analysis
@@ -176,11 +176,11 @@ Customer Detail
 
 Product Detail
 
-NOTES ON DATA USAGE
+## NOTES ON DATA USAGE
 
 This project uses sample AdventureWorks data. No proprietary, sensitive, or personally identifiable information is included.
 
-FUTURE IMPROVEMENTS
+## FUTURE IMPROVEMENTS
 
 Add automated data quality checks and anomaly detection
 
@@ -190,7 +190,7 @@ Expand QA metrics for returns and fulfillment accuracy
 
 Add role-based dashboard views for executives vs. analysts
 
-AUTHOR
+## AUTHOR
 
 Michael Lee
 📧 m.brady.lee@gmail.com

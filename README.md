@@ -164,17 +164,17 @@ Business storytelling through dashboards
 Translating raw data into actionable insights
 
 ## SCREENSHOTS
-Executive Dashboard
+![Executive Dashboard](https://github.com/m-brady-lee/adventure_works_dashboard/blob/main/Exec_Dashboard.png)
 
-Geographic Analysis
+![Geographic Analysis](https://github.com/m-brady-lee/adventure_works_dashboard/blob/main/Map.png)
 
-Data Model
+![Product Detail](https://github.com/m-brady-lee/adventure_works_dashboard/blob/main/Product_Detail.png)
 
-Decomposition Tree
+![Customer Detail](https://github.com/m-brady-lee/adventure_works_dashboard/blob/main/Customer_Detail.png)
 
-Customer Detail
+![Decomposition Tree](https://github.com/m-brady-lee/adventure_works_dashboard/blob/main/Decomp_Tree.png)
 
-Product Detail
+![Data Model](https://github.com/m-brady-lee/adventure_works_dashboard/blob/main/Model.png)
 
 ## NOTES ON DATA USAGE
 

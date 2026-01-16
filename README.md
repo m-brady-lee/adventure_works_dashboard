@@ -56,7 +56,7 @@ Ensured referential integrity across fact and dimension tables
 
 Modeled territory, customer, and product hierarchies to enable multi-level analysis
 
-Verified grain consistency to prevent double-counting in KPIs
+Verified granularity to prevent double-counting in KPIs
 
 ## ANALYSIS & ENGINEERING
 
